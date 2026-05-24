@@ -1,0 +1,2 @@
+# centralized-procurement-vendor-management-simulation
+This Python example simulates a centralized procurement system with a global vendor address book. It demonstrates how different departments submit purchase requests to a central authority, which then validates and processes these requests against a unified, centrally managed list of approved vendors. This approach highlights the benefits of consist
